@@ -85,25 +85,30 @@ The dashboard is fully interactive with the following slicers:
 **✔ Enables multi-level exploration for deeper insights.**
 
 # 🗂 Repository Structure
-
+```text
 Hospitality-Dashboard-PowerBI/
 │
 ├── 📁 dataset/
-      ├── dim_date.csv
+|     ├── dim_date.csv
 │     ├── dim_hotels.csv
 │     ├── dim_rooms.csv
 │     ├── fact_aggregated_bookings.csv
 │     └── fact_bookings.csv
+|
 ├── 📁 screenshots/
 │     ├── KPIs.png
 │     ├── Property by key matrics.png
 │     ├── Realisation % and ADR by booking platform.png
 │     ├── Relationships.png
-      ├── Revenue by category.png
+|     ├── Revenue by category.png
 │     └── Trends by key metrics.png
+|
 ├── Atliq Hospitality Dashboard.pbix
+|
 ├── Dashboard.png
+|
 └── README.md
+```
 
 **✔ Well-structured for performance and clarity.**
 
@@ -112,5 +117,7 @@ Hospitality-Dashboard-PowerBI/
 
 ## 📬 Connect with me 
 👩‍💻 **Created by:** Ramsha Arshad 
+
 🔗 www.linkedin.com/in/ramshaarshad 
+
 ✉️ email: ramsha_arshad467@hotmail.com
